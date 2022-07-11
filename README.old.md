@@ -11,3 +11,12 @@ yarn add @react-google-maps/api
 yarn add axios
 yarn add google-map-react
 
+gerando chave googlemaps
+https://console.cloud.google.com/projectcreate
+API Library
+search maps
+Maps JavaScriptAPI que será usada
+Credentials
+Create Credentials
+API key
+
