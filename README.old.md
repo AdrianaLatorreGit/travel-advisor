@@ -3,3 +3,11 @@ Rapid API = "https://rapidapi.com/hub?utm_source=youtube.com%2FJavaScriptMastery
 Criando app react
 npx create-react-app ./
 
+#libs
+yarn add @material-ui/core
+yarn add @material-ui/icons
+yarn add @material-ui/lab
+yarn add @react-google-maps/api
+yarn add axios
+yarn add google-map-react
+
